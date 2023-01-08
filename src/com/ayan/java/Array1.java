@@ -6,6 +6,7 @@ import java.util.Scanner;
 
 public class Array1 {
 
+//  Array By User input
     public int[] arrayByUserInput(int len){
         System.out.println("Method: arrayByUserInput");
         Scanner s= new Scanner(System.in);
@@ -18,6 +19,7 @@ public class Array1 {
         return arr;
     }
 
+//  Converting String to an Array
     public int[] arrayByStringInput(){
         System.out.println("Method: arrayByStringInput");
         String str;
@@ -34,6 +36,7 @@ public class Array1 {
         return integerArray;
     }
 
+//  Random Array generation
     public int[] randomIntegerArray(int len){
         System.out.println("Method: randomIntegerArray");
         Random r= new Random();
@@ -45,6 +48,7 @@ public class Array1 {
         return arr;
     }
 
+//  Array print
     public static void printArray(int[] arr){
         System.out.println(Arrays.toString(arr));
     }
