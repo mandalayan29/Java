@@ -1,4 +1,4 @@
-package com.ayan.java;
+package com.ayan.array;
 
 import java.util.Arrays;
 import java.util.Random;
