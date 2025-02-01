@@ -1,4 +1,4 @@
-package com.ayan.streams;
+package com.ayan.fp.section2;
 
 import java.util.List;
 
@@ -17,8 +17,14 @@ public class P01_sum_using_reduce {
     }
     public static int addAllFunctional(List<Integer> nums) {
 //        Combine then to a single result or one value
+//        return nums.stream()
+//                .reduce(0, (a,b)-> a+b);
+
         return nums.stream()
-                .reduce(0, (a,b)-> a+b);
+                .reduce(0, (a,b)-> {
+                    System.out.println(a + " : "+b);
+                    return a+b;
+                });
     }
 
     public static int addAllFunctional1(List<Integer> nums) {
@@ -35,8 +41,8 @@ public class P01_sum_using_reduce {
 
     public static void main(String[] args) {
         List<Integer> numbers= List.of(12,9,21,32,1,3,4,53);
-        System.out.println("Sum : "+addAllStructured(numbers));
+//        System.out.println("Sum : "+addAllStructured(numbers));
         System.out.println("Sum functional : "+addAllFunctional(numbers));
-        System.out.println("Sum functional : "+addAllFunctional1(numbers));
+//        System.out.println("Sum functional : "+addAllFunctional1(numbers));
     }
 }

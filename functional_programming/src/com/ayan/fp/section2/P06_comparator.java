@@ -1,4 +1,4 @@
-package com.ayan.streams;
+package com.ayan.fp.section2;
 
 import java.util.Comparator;
 import java.util.List;

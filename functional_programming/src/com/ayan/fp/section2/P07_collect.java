@@ -1,4 +1,4 @@
-package com.ayan.streams;
+package com.ayan.fp.section2;
 
 import java.util.List;
 import java.util.stream.Collectors;
