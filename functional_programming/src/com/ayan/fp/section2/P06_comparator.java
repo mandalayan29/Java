@@ -18,7 +18,6 @@ public class P06_comparator {
 
 //        Sort by length of length
         strings.stream().sorted(Comparator.comparing(str-> str.length())).forEach(System.out::println);
-
     }
 
 }

@@ -2,7 +2,7 @@ package com.ayan.fp.section1;
 
 import java.util.List;
 
-public class FP03Functional {
+public class FP03Functional_Filter {
 
     public static void main(String[] args) {
 
@@ -16,7 +16,7 @@ public class FP03Functional {
 
 //      For additional logic we can use filter
         nums.stream()
-                .filter( FP03Functional::isEven )
+                .filter( FP03Functional_Filter::isEven )
 //                Declared that this is the method to be called for each of the elements
 //                If it is true then only it will move to next line
                 .forEach( System.out :: println );

@@ -3,6 +3,16 @@ package com.ayan.fp.section2;
 import java.util.List;
 
 public class P01_sum_using_reduce {
+    /*
+    * Reduce: Reduction of elements using an associative accumulation function
+    *           it returns and Optional.
+    *  --> It is commonly used to aggregate or combine elements into a single result,
+    *  such as computing the maximum, minimum, sum, or product.
+    *
+    *   List<String> words = Arrays.asList("GFG", "Geeks", "for", "GeeksQuiz", "GeeksforGeeks");
+        Optional<String> longestString = words.stream()
+            .reduce((word1, word2) -> word1.length() > word2.length() ? word1 : word2);
+    * */
 
     public static int addAllStructured(List<Integer> nums) {
         int sum=0;

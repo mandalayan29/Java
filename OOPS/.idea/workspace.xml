@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5b124acd-4bf9-458f-b215-bc0f3405c153" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../functional_programming/src/com/ayan/fp/section1/FP03Functional.java" beforeDir="false" afterPath="$PROJECT_DIR$/../functional_programming/src/com/ayan/fp/section1/FP03Functional_Filter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../functional_programming/src/com/ayan/fp/section1/FP04Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../functional_programming/src/com/ayan/fp/section1/FP04Practice_Filter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../functional_programming/src/com/ayan/fp/section2/P01_sum_using_reduce.java" beforeDir="false" afterPath="$PROJECT_DIR$/../functional_programming/src/com/ayan/fp/section2/P01_sum_using_reduce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../functional_programming/src/com/ayan/fp/section2/P06_comparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../functional_programming/src/com/ayan/fp/section2/P06_comparator.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2zH72BG2Z1rY6XOi5oHSK5iLyKG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b124acd-4bf9-458f-b215-bc0f3405c153" name="Changes" comment="" />
+      <created>1751375937899</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1751375937899</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JAVA_rename/JAVA_rename.iml" filepath="$PROJECT_DIR$/JAVA_rename/JAVA_rename.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/functional_programming/functional_programming.iml" filepath="$PROJECT_DIR$/functional_programming/functional_programming.iml" />
+    </modules>
+  </component>
+</project>

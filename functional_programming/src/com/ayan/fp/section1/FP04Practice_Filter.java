@@ -2,7 +2,7 @@ package com.ayan.fp.section1;
 
 import java.util.List;
 
-public class FP04Practice {
+public class FP04Practice_Filter {
 
 //    Print all odd numbers from a list
 //    Print all String individually from a list
